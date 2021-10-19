@@ -1,8 +1,10 @@
 # IntelliJ project files
 .idea
+exercice-02/.idea
+exercice-01/.idea
 *.iml
 out
 gen
 
 #node modules
-node_modules
+node_modules/
